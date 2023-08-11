@@ -1,3 +1,3 @@
-a=1
-b=22
-print(a-b)
+a=66
+b=77
+print(a+b)
