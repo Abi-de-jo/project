@@ -1,3 +1,3 @@
-a = 77
-b=99
-print(a-b)
+a = 66
+b=77
+print(a+b)
